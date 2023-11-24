@@ -1,6 +1,4 @@
 
-(https://docs.swift.org/swift-book/documentation/the-swift-programming-language/automaticreferencecounting/)
-
 ### ARC란
 - Automatic Reference Counting(자동 참조 계산)으로 앱의 메모리 사용량을 추적하고 관리합니다.
 ARC는 해당 인스턴스가 더이상 필요하지 않을때 클래스 인스턴스에서 사용하는 메모리를 자동으로 해제합니다.
